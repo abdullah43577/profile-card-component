@@ -20,12 +20,12 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Screenshot
 
-![screenshot of ](./screenshot.jpg)
+![screenshot of desktop view](./design/Screenshot_22.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/profile-card-component-built-using-flexbox-LqujBXM8x3)
+- Live Site URL: [Add live site URL here](https://pfpcard.netlify.app/)
 
 ## My process
 
@@ -40,6 +40,6 @@ Desktop-first workflow
 
 ## Author
 
-- Website - [Abdullah Ayoola](https://www.your-site.com)
+- Website - [Abdullah Ayoola](https://github.com/abdullah43577)
 - Frontend Mentor - [@abdullah43577](https://www.frontendmentor.io/profile/abdullah43577)
 - Twitter - [@officialayo540](https://twitter.com/officialayo540)
