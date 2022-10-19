@@ -24,8 +24,8 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/profile-card-component-built-using-flexbox-LqujBXM8x3)
-- Live Site URL: [Add live site URL here](https://pfpcard.netlify.app/)
+- Solution URL: [solution URL here](https://www.frontendmentor.io/solutions/profile-card-component-built-using-flexbox-LqujBXM8x3)
+- Live Site URL: [live site URL here](https://pfpcard.netlify.app/)
 
 ## My process
 
